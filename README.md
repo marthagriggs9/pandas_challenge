@@ -4,7 +4,7 @@
 
 ### Summary
 
-The following data contains math and reading standardized test scores for various schools in the PyCity School District. The data also contains other important information in regardsto each school, such as school budget and type (Charter or District).    
+The following data contains math and reading standardized test scores for various schools in the PyCity School District. The data also contains other important information in regards to each school, such as school budget and type (Charter or District).    
 This data has been sorted by various metrics to more easily find trends in school performance. These findings can help PyCity make more informed decisions about school budget allocations. 
 
 ### Analysis Findings
